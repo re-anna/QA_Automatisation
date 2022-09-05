@@ -40,3 +40,16 @@ let step3="3. Pour water in a cup with coffee";
 let step4="4. Pour milk in a cup of coffee";
 let step5="5. Stir coffee in a cup with a spoon */";
 document.write(task+"<br>"+step1+"<br>"+step2+"<br>"+step3+"<br>"+step4+"<br>"+step5);
+
+// a*b
+let a=2;
+let b=3;
+console.log(a*b);
+
+//найти периметр и площадь прямоугольника со сторонами 5 и 8
+let x=5;
+let y=8;
+let P=(x*2+y*2);
+let S=x*y;
+console.log(P);
+console.log(S);
